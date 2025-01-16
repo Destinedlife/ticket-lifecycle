@@ -70,7 +70,7 @@ If you refresh the page the tickets thread should be updated with all of the cha
 <p>
 We will countine working the ticket as Dawn, who we assigned to the banking team earlier. Log in as Dawn and see that the ticket should now say assigned to the online banking team. But now that Dawn is working the ticket assign it to her. Reasoning can be " I'll will be taking this ticket." Next down in "Post Reply" write a hypertheticial respone to the ticket such as "I believe the issue is caused by a recent update to our software. We rolled it back, notified the issuer, and are waiting for a proper fix. Online banking should now be running correctly." Then click post. Next to status set the Ticket to resolved.
 
-  Congadulations you have completed your first ticket.
+  Congradulations you have completed your first ticket.
 </p>
 <br />
 
